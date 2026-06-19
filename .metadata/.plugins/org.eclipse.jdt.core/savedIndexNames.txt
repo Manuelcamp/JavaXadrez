@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+D:\PROGRAMAÇÃO\JavaXadrez\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3744090223.index
+3112536064.index
