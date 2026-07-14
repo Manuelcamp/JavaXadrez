@@ -19,7 +19,7 @@ Um sistema de jogo de xadrez completo desenvolvido em **Java Core**, executado d
 1. Certifique-se de ter o **Java JDK** instalado na sua máquina.
 2. Clone o repositório:
    ```bash
-   git clone [https://github.com/Manuelcamp/JavaXadrez.git](https://github.com/Manuelcamp/JavaXadrez.git)
+   git clone https://github.com/Manuelcamp/JavaXadrez.git
    ```
 3. Navegue até a pasta raiz do projeto no terminal:
    ```bash
