@@ -28,10 +28,10 @@ Um sistema de jogo de xadrez completo desenvolvido em **Java Core**, executado d
 4. Para executar o jogo diretamente pelo terminal, basta compilar e rodar o arquivo principal `Program.java` (localizado em `chessSystem/src/application/`):
    ```bash
    # Compila todos os arquivos do projeto
-   javac chessSystem/src/application/Program.java chessSystem/src/*/*.java
+  javac chessSystem/src/application/*.java chessSystem/src/boardgame/*.java chessSystem/src/chess/*.java chessSystem/src/chess/pieces/*.java
    
    # Executa o programa principal
-   java chessSystem/src/application/Program
+   java -cp chessSystem/src application.Program
    ```
 💡 **Nota:** Você também pode simplesmente abrir a pasta raiz em sua IDE de preferência (IntelliJ, Eclipse ou VS Code) e rodar o arquivo `Program.java` clicando em **Run**.
 ### Dica extra:
